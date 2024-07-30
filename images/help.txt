@@ -1,0 +1,3 @@
+upload the images with the their label tags
+like PRIYANKA-- image
+SADOMA--image
