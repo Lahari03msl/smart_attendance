@@ -13,7 +13,6 @@ preview
 
 ![Screenshot 2024-05-06 182415](https://github.com/user-attachments/assets/2d295196-7728-4ca5-9cab-31c75f5968b5)
 ![Screenshot 2024-05-06 182448](https://github.com/user-attachments/assets/0baf21e7-eb44-4b3c-a932-e73f2893aef4)
-![Screenshot 2024-03-09 160057](https://github.com/user-attachments/assets/58d8a786-1905-4f6e-9a3d-b92466c16404)
 
 --TO RUN THE CODE:
 --Clone the repository
